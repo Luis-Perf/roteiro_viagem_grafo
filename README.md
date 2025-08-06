@@ -1,4 +1,4 @@
-# 🛣️ Otimizador de Roteiro de Viagem com Custo de Combustível
+# 🛣️ Otimizador de Roteiro de Viagem (Grafo)
 
 ## 📌 Sobre o Projeto
 Este projeto calcula a **menor rota entre duas cidades** e estima o **custo da viagem** com base no tipo de combustível (gasolina ou álcool), utilizando **algoritmo de Dijkstra**.
