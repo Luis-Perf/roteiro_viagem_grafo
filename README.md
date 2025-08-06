@@ -4,7 +4,7 @@
 Este projeto calcula a **menor rota entre duas cidades** e estima o **custo da viagem** com base no tipo de combustível (gasolina ou álcool), utilizando **algoritmo de Dijkstra**.
 
 ## 🤖 Tecnologias usadas
-- Python 3.x
+- Python 3.13.3
 - [pandas](https://pandas.pydata.org/) - para leitura dos arquivos CSV
 - [networkx](https://networkx.org/) - para criação e manipulação do grafo
 - [matplotlib](https://matplotlib.org/) - para visualização do grafo
